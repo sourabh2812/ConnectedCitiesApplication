@@ -34,18 +34,6 @@ The Connected Cities application is a Java-based program that determines if two 
 - Java 17 or higher
 - Maven or Gradle (for building the project)
 
-### Build and Run with Maven
-
-1. **Build the Project**:
-    ```sh
-    mvn clean package
-    ```
-
-2. **Run the Application**:
-    ```sh
-    java -jar target/connected-cities-1.0.0.jar "New York" "Los Angeles" "src/test/resources/test_connected.txt"
-    ```
-
 ### Build and Run with Gradle
 
 1. **Build the Project**:
